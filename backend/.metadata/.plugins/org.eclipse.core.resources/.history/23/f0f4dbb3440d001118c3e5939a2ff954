@@ -1,0 +1,5 @@
+package com.srikanth.www.repository;
+
+public interface ProductRepository {
+
+}

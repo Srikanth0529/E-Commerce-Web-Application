@@ -1,0 +1,5 @@
+package com.srikanth.www.model;
+
+public class Product {
+
+}
